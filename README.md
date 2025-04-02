@@ -27,12 +27,10 @@ In simple terms,
 
 ### 🎯 Goal
 
-- [ ] Request Vacation - 휴가 신청
-- [ ] Cancel Vacation - 휴가 취소
-- [ ] Check vacation days remaining - 휴가 잔여일수 조회
-- [ ] Check vacation status - 휴가 상태 확인
-- [ ] Fancy UI/UX - 시연용으로 Fancy한 UI/UX
-- [ ] Mobile App - 모바일 APP
+- [ ] Request Vacation
+- [ ] Cancel Vacation
+- [ ] Check vacation days remaining
+- [ ] Check vacation status
 
 
 
